@@ -7,16 +7,16 @@ Face detection with MediaPipe is a popular use case because of its accuracy, eff
 
 ### MediaPipe Hand Detection
 <p align="center">
-  <img src="images/MediaPipe-hand-recognition-graph-12.jpg" width='600px'>
+  <img src="images/HandLandmarks.png" width='600px'>
 </p>
 
 **Landmarks**
 <p align="center">
-  <img src="images/MediaPipe-HandLandmarks.png" width='600px'>
+  <img src="images/HandLandmarks.png" width='600px'>
 </p>
 
 
-#### Poae Detection Landmarks
+### Poae Detection Landmarks
 <p align="center">
-  <img src="images/MediaPipe-pose_landmarks.png" width='600px'>
+  <img src="images/pose_landmarks.png" width='600px'>
 </p>
