@@ -7,7 +7,7 @@ Face detection with MediaPipe is a popular use case because of its accuracy, eff
 
 ### MediaPipe Hand Detection
 <p align="center">
-  <img src="images/HandLandmarks.png" width='600px'>
+  <img src="images/MediaPipe-hand-recognition-graph-12.jpg" width='600px'>
 </p>
 
 **Landmarks**
