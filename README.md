@@ -6,17 +6,17 @@ MediaPipe's face detection model is based on machine learning techniques and has
 Face detection with MediaPipe is a popular use case because of its accuracy, efficiency, and ease of integration. By using MediaPipe's pre-trained face detection model, developers can quickly and accurately detect faces in images or video streams, which is a fundamental task in many applications such as facial recognition, emotion detection, and augmented reality.
 
 ### MediaPipe Hand Detection
-
 <p align="center">
   <img src="images/MediaPipe-hand-recognition-graph-12.jpg" width='600px'>
 </p>
 
 **Landmarks**
 <p align="center">
-  <img src="images/MediaPipe-hand-recognition-graph-12.jpg" width='600px'>
+  <img src="images/MediaPipe-HandLandmarks.png" width='600px'>
 </p>
+
 
 #### Poae Detection Landmarks
 <p align="center">
-  <img src="images/MediaPipe-hand-recognition-graph-12.jpg" width='600px'>
+  <img src="images/MediaPipe-pose_landmarks.png" width='600px'>
 </p>
